@@ -9,8 +9,6 @@ This specific implementation of the solution uses a [binary tree based associati
 ## Further Considerations
 It may be possible to [reduce the number of operations by maintaining a remainder in each node](https://youtu.be/kyLxTdsT8ws) which can then be used to specify additional exit criteria for the recursive calculation. This was not implemented due to time constraints.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kyLxTdsT8ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Codebase Overview
 The code is pretty much self explanatory and includes additional comments in critical areas. To build and test;
 * Clone this repository
